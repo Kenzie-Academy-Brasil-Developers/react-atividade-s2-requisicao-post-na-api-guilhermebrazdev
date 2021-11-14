@@ -1,0 +1,13 @@
+#completa {
+  background: #07cb5d;
+  padding: 4px;
+  border-radius: 8px;
+  border: 2px solid white;
+}
+
+#falhou {
+  background: #e3174f;
+  padding: 4px;
+  border-radius: 8px;
+  border: 2px solid white;
+}
