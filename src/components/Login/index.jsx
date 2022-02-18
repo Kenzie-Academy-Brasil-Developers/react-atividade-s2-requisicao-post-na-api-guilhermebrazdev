@@ -36,12 +36,6 @@ function Login({ setRequest, request }) {
       });
   };
 
-  // const notify = () => {
-  //   request
-  //     ? toast.success("Requisição completa")
-  //     : toast.error("Requisição falhou");
-  // };
-
   return (
     <div>
       <div id="loginBox">

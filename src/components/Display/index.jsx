@@ -4,7 +4,7 @@ function Display({ request }) {
   return (
     <div>
       <div>
-        {request === true && <p id="completa">Requisição Completa</p>}
+        {request === true && <p id="completa">Requisição Completad</p>}
         {request === false && <p id="falhou">Requisição Falhou</p>}
       </div>
     </div>
